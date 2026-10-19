@@ -1,0 +1,7 @@
+{
+  "versionCode": 34,
+  "versionName": "0.3.29",
+  "apkUrl": "https://github.com/masoenok/monolabel/releases/download/v0.3.29/monolabel-0.3.29.apk",
+  "sha256": "7e2baf3daa8d82d6794c93473926888f59246e97d3b32f14c2f1712a5932db2f",
+  "notes": "Größere, besser lesbare Etikettenschrift (Roboto, x-Höhe 1,5 mm); Verkleinerung nur noch, wenn sie ein ganzes Etikett spart."
+}
