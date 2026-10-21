@@ -1,0 +1,7 @@
+{
+  "versionCode": 37,
+  "versionName": "0.3.32",
+  "apkUrl": "https://github.com/masoenok/monolabel/releases/download/v0.3.32/monolabel-0.3.32.apk",
+  "sha256": "3249b629cc5a740c42eae8d5305324000d0a64f8768e6262bd29c9aa24fdc0dc",
+  "notes": "Update-Suche robuster: prüft über die GitHub-API (kein 5-Minuten-Cache mehr) und zeigt immer, was passiert (sucht, aktuell, Fortschritt oder Fehlergrund)."
+}
