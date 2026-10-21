@@ -1,0 +1,7 @@
+{
+  "versionCode": 35,
+  "versionName": "0.3.30",
+  "apkUrl": "https://github.com/masoenok/monolabel/releases/download/v0.3.30/monolabel-0.3.30.apk",
+  "sha256": "578def4952aa111c61bba68eb580e5576f256baa302aecb2fb39cf49b4f418f4",
+  "notes": "Belgien zweisprachig (NL + FR): Nährwerttabelle zweisprachig, Zutaten je Sprache über die Mono-Artikel-API (sobald auf dem Server). Allergene fett, kursiv und unterstrichen. Artikel aus dem Kassendaten-Export."
+}
